@@ -2,6 +2,13 @@
 
 This project aims to predict the likelihood of prepayment for mortgage-backed securities (MBS) using machine learning techniques. The system processes mortgage data to evaluate the risk of loan prepayment, which is crucial for investors managing MBS portfolios.
 
+## Demo Video
+
+Watch the demo of the **Mortgage-Backed Securities Prepayment Prediction System** in action:
+
+[![Demo Video](https://img.youtube.com/vi/bvC8TNrxdjg/maxresdefault.jpg)](https://youtu.be/bvC8TNrxdjg)
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
